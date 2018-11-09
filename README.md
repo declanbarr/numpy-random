@@ -7,6 +7,24 @@
 
 ### Project plan
 
+#### Updated Project Plan Friday 09/11/2018
+
+Friday
+* Work on adding descriptions to remaining sections
+* Add code and descriptions to seeds
+
+Saturday
+* Clean up code
+* Clean up descriptions ( add in proper referencing, etc)
+* Finish Readme
+* Add URL to Moodle page
+* Review entire assignment (includes reading over PDF of assignment and rewatching video to ensure nothing has been missed)
+
+Sunday
+* Contingency day - Aim to have all work completed before this day
+
+#### Previous Project Plan
+
 Project contains 5 main sections:
 * Purpose of numpy
 * Simple Random Data
