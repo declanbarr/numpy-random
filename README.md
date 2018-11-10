@@ -10,8 +10,8 @@
 #### Updated Project Plan Friday 09/11/2018
 
 Friday
-* Work on adding descriptions to remaining sections
-* Add code and descriptions to seeds
+* ~~Work on adding descriptions to remaining sections~~
+* ~~Add code and descriptions to seeds~~
 
 Saturday
 * Clean up code
