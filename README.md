@@ -1,9 +1,27 @@
 # numpy-random
 ## An investigation into the numpy.random package
 
-### Explanation of what is contained in this repository
+### What's contained in this repository
+
+This repository contains the following files:
+
+* numpy-random.ipynb 
+* .gitignore
+* LICENSE
+* README.md
+
+The numpy-random.ipynb file contains the analyses that was carried out into the numpy.random function.
+
 
 ### How to run the Jupyter Notebook
+
+For this project I used Anaconda version 5.3 and Python version 3.6.7. Anaconda is a free and open source distribution of Python used for data science.[1] Anaconda provides a number of libraries. For this project I will be using the following libraries: Pandas, NumPy and Matplotlib.
+
+The numpy-random.ipynb file can be viewed in full on GitHub or can be downloaded and run on your PC. To run on your own machine follow these steps:
+
+* Download the raw .ipynb file https://raw.githubusercontent.com/declanbarr/numpy-random/master/numpy-random.ipynb
+* On the command line change directory into the directory where you saved the ipynb file
+* Start jupyter notebook by typing: jupyter notebook
 
 ### Project plan
 
@@ -74,3 +92,9 @@ Finish assignment
 
 __Sunday 11th__
 Contingency Day - Aim to have assignment completed on Saturday or before.
+
+
+#### References
+
+[1] Wikipedia. Anaconda (Python distribution).
+[https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)]
