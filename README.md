@@ -34,8 +34,8 @@ Friday
 Saturday
 * ~~Clean up code~~
 * ~~Clean up descriptions ( add in proper referencing, etc)~~
-* Finish Readme
-* Add URL to Moodle page
+* ~~Finish Readme~~
+* ~~Add URL to Moodle page~~
 * Review entire assignment (includes reading over PDF of assignment and rewatching video to ensure nothing has been missed)
 
 Sunday
